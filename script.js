@@ -1,4 +1,4 @@
-// By Truett Van Slyke - 8/21/22
+// By Truett Van Slyke - 2022
 
 const CANVAS_SCALE = 4
 const width = window.innerWidth * CANVAS_SCALE
