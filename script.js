@@ -40,6 +40,7 @@ var mouseY = 0
 
 var boids = 0
 
+// Does NOT use classes to try and reduce lag
 var xBoidPos = []
 var yBoidPos = []
 var xLastPos = []
